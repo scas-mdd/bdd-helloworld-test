@@ -3,3 +3,4 @@ bdd-helloworld
 ==============
 
 bdd-helloworld
+Playing with git
