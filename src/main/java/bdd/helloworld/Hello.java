@@ -1,5 +1,8 @@
 package bdd.helloworld;
 
+/**
+*Author Stefan
+**/
 public class Hello{
     private String greeting;
     
