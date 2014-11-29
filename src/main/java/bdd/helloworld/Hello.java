@@ -1,5 +1,9 @@
 package bdd.helloworld;
-// Old project can be deleted
+
+/**
+*Author Stefan
+**/
+
 public class Hello{
     private String greeting;
     
