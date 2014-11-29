@@ -4,7 +4,7 @@
   <groupId>bdd.helloworld</groupId>
   <artifactId>bdd-helloworld</artifactId>
   <packaging>jar</packaging>
-  <version>1.0-SNAPSHOT</version>
+  <version>1.0</version>
   <name>bdd-helloworld</name>
   <url>http://maven.apache.org</url>
   <dependencies>
